@@ -1,51 +1,55 @@
-# ⚽ Football Player Market Value Prediction
+# ⚽ Football Player Market Value Prediction using Machine Learning
 
-A Machine Learning project that predicts the market value of football players using multiple regression algorithms, Genetic Algorithm optimization, and Flask API deployment.
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Flask](https://img.shields.io/badge/Flask-REST_API-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ---
 
 # 📌 Project Overview
 
-Football player transfers involve massive investments, and predicting a player's fair market value is an important task for clubs and analysts.
+In modern football, player transfers involve huge financial investments. Predicting the fair market value of a football player is an important task for clubs, analysts, and scouts.
 
-This project uses Machine Learning techniques to predict the market value of football players based on:
+This project predicts the **market value of football players** using Machine Learning Regression Algorithms, Hyperparameter Tuning, Genetic Algorithms, and Flask API Deployment.
+
+The system analyzes:
 - Player statistics
 - Fantasy Premier League data
 - Popularity metrics
 - Club information
-- Nationality and position
+- Nationality
+- Position and age
 
-The project includes:
-- Exploratory Data Analysis (EDA)
-- Multiple Regression Models
-- Hyperparameter Tuning
-- Genetic Algorithm Optimization
-- REST API Deployment using Flask
+to estimate the market value of players.
 
 ---
 
 # 🚀 Features
 
-✅ Data Analysis using Seaborn  
+✅ Exploratory Data Analysis (EDA) using Seaborn  
 ✅ Multiple Regression Algorithms  
 ✅ Hyperparameter Tuning using GridSearchCV  
-✅ Model Selection and Comparison  
+✅ Model Comparison and Selection  
 ✅ Genetic Algorithm for KNN Feature Weight Optimization  
 ✅ RESTful API Deployment using Flask  
-✅ End-to-End Machine Learning Workflow  
+✅ End-to-End Machine Learning Pipeline  
 
 ---
 
 # 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Flask
-- Joblib
+| Technology | Purpose |
+|---|---|
+| Python | Programming Language |
+| Pandas | Data Processing |
+| NumPy | Numerical Computation |
+| Matplotlib | Data Visualization |
+| Seaborn | Statistical Visualization |
+| Scikit-Learn | Machine Learning |
+| Flask | REST API Deployment |
+| Joblib | Model Serialization |
 
 ---
 
